@@ -1,0 +1,40 @@
+D:\46013\VS\modem20P01\BSUstand 2s38\bin\Debug\BSUstand 2s38.exe
+D:\46013\VS\modem20P01\BSUstand 2s38\bin\Debug\BSUstand 2s38.pdb
+D:\46013\VS\modem20P01\BSUstand 2s38\bin\Debug\vcinet2.dll
+D:\46013\VS\modem20P01\BSUstand 2s38\bin\Debug\vcinet2.xml
+D:\46013\VS\modem20P01\BSUstand 2s38\obj\Debug\modem.csprojResolveAssemblyReference.cache
+D:\46013\VS\modem20P01\BSUstand 2s38\obj\Debug\BSUstand_2s38.Properties.Resources.resources
+D:\46013\VS\modem20P01\BSUstand 2s38\obj\Debug\modem.csproj.GenerateResource.Cache
+D:\46013\VS\modem20P01\BSUstand 2s38\obj\Debug\BSUstand 2s38.exe
+D:\46013\VS\modem20P01\BSUstand 2s38\obj\Debug\BSUstand 2s38.pdb
+D:\46013\VS\modem20P01\BSUstand 2s38\obj\Debug\project.MainWindow.resources
+D:\46013\VS\modem20P01\111BSUstand 2s38\bin\Debug\project.exe
+D:\46013\VS\modem20P01\111BSUstand 2s38\bin\Debug\project.pdb
+D:\46013\VS\modem20P01\111BSUstand 2s38\bin\Debug\vcinet2.dll
+D:\46013\VS\modem20P01\111BSUstand 2s38\bin\Debug\vcinet2.xml
+D:\46013\VS\modem20P01\111BSUstand 2s38\obj\Debug\modem.csprojResolveAssemblyReference.cache
+D:\46013\VS\modem20P01\111BSUstand 2s38\obj\Debug\project.MainWindow.resources
+D:\46013\VS\modem20P01\111BSUstand 2s38\obj\Debug\project.Properties.Resources.resources
+D:\46013\VS\modem20P01\111BSUstand 2s38\obj\Debug\modem.csproj.GenerateResource.Cache
+D:\46013\VS\modem20P01\111BSUstand 2s38\obj\Debug\project.exe
+D:\46013\VS\modem20P01\111BSUstand 2s38\obj\Debug\project.pdb
+D:\46013\VS\modem20P01\project\obj\Debug\project.exe
+D:\46013\VS\modem20P01\project\obj\Debug\project.pdb
+D:\46013\VS\modem20P01\project\bin\Debug\project.exe
+D:\46013\VS\modem20P01\project\bin\Debug\project.pdb
+D:\46013\VS\modem20P01\project\bin\Debug\vcinet2.dll
+D:\46013\VS\modem20P01\project\bin\Debug\vcinet2.xml
+D:\46013\VS\modem20P01\project\obj\Debug\modem.csprojResolveAssemblyReference.cache
+D:\46013\VS\modem20P01\project\obj\Debug\project.MainWindow.resources
+D:\46013\VS\modem20P01\project\obj\Debug\project.Properties.Resources.resources
+D:\46013\VS\modem20P01\project\obj\Debug\modem.csproj.GenerateResource.Cache
+D:\46013\VS\modem 20P01\project\obj\Debug\project.exe
+D:\46013\VS\modem 20P01\project\obj\Debug\project.pdb
+D:\46013\VS\modem 20P01\project\bin\Debug\project.exe
+D:\46013\VS\modem 20P01\project\bin\Debug\project.pdb
+D:\46013\VS\modem 20P01\project\bin\Debug\vcinet2.dll
+D:\46013\VS\modem 20P01\project\bin\Debug\vcinet2.xml
+D:\46013\VS\modem 20P01\project\obj\Debug\modem.csprojResolveAssemblyReference.cache
+D:\46013\VS\modem 20P01\project\obj\Debug\project.MainWindow.resources
+D:\46013\VS\modem 20P01\project\obj\Debug\project.Properties.Resources.resources
+D:\46013\VS\modem 20P01\project\obj\Debug\modem.csproj.GenerateResource.Cache

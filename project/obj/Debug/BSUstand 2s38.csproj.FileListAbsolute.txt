@@ -1,0 +1,12 @@
+D:\46013\SVN\2S38\BSU\BSUstand\vs_BSU 2s38 исходник\BSU 2s38\BSUstand 2s38\bin\Debug\BSUstand 2s38.exe
+D:\46013\SVN\2S38\BSU\BSUstand\vs_BSU 2s38 исходник\BSU 2s38\BSUstand 2s38\bin\Debug\BSUstand 2s38.pdb
+D:\46013\SVN\2S38\BSU\BSUstand\vs_BSU 2s38 исходник\BSU 2s38\BSUstand 2s38\bin\Debug\vcinet2.dll
+D:\46013\SVN\2S38\BSU\BSUstand\vs_BSU 2s38 исходник\BSU 2s38\BSUstand 2s38\bin\Debug\vcinet2.xml
+D:\46013\SVN\2S38\BSU\BSUstand\vs_BSU 2s38 исходник\BSU 2s38\BSUstand 2s38\obj\Debug\BSUstand 2s38.csprojResolveAssemblyReference.cache
+D:\46013\SVN\2S38\BSU\BSUstand\vs_BSU 2s38 исходник\BSU 2s38\BSUstand 2s38\obj\Debug\BSUstand_2s38.MainWindow.resources
+D:\46013\SVN\2S38\BSU\BSUstand\vs_BSU 2s38 исходник\BSU 2s38\BSUstand 2s38\obj\Debug\BSUstand_2s38.Properties.Resources.resources
+D:\46013\SVN\2S38\BSU\BSUstand\vs_BSU 2s38 исходник\BSU 2s38\BSUstand 2s38\obj\Debug\BSUstand 2s38.csproj.GenerateResource.Cache
+D:\46013\SVN\2S38\BSU\BSUstand\vs_BSU 2s38 исходник\BSU 2s38\BSUstand 2s38\obj\Debug\BSUstand 2s38.exe
+D:\46013\SVN\2S38\BSU\BSUstand\vs_BSU 2s38 исходник\BSU 2s38\BSUstand 2s38\obj\Debug\BSUstand 2s38.pdb
+D:\46013\VS\modem20P01\BSUstand 2s38\obj\Debug\BSUstand 2s38.exe
+D:\46013\VS\modem20P01\BSUstand 2s38\obj\Debug\BSUstand 2s38.pdb
